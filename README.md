@@ -17,4 +17,4 @@ Given a set of items, each with a weight and a value, determine the most valuabl
 - Clean object-oriented structure for items
 - Memoization with decorators for top-down approach
 - Full decision matrix for bottom-up approach
-- Example items taken from the Lord of the Rings
+- Example items taken from the Lord of the Rings:)
